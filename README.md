@@ -7,6 +7,7 @@ For more information about **DICOM**, refer to this **[post](https://medium.com/
 ## Dealing with DICOM using Python PartI: [[Code]](https://github.com/OmarAlkousa/DICOM-Using-Python/blob/main/Dealing%20with%20DICOM%20using%20Python%20PartI/Dealing_with_DICOM_using_Python_%20PartI.ipynb)
 We will use the **ImageIO** Python package to **read DICOM files**, **extract metadata** and attributes, and plot image slices using **interactive** slider widgets. While doing so, we have to understand some important DICOM attributes such as **Pixel Spacing**, **Shape**, **Slice Thickness**, and **Aspect Ratio**.
 
+![](https://github.com/OmarAlkousa/DICOM-Using-Python/blob/main/Dealing%20with%20DICOM%20using%20Python%20PartI/Demo/multiple%20axial%2C%20coronal%2C%20and%20sagittal%20slices%20using%20interactive%20widgets.gif)
 
 More about DICOM with Python soon... To be notified whenever a new post is published, **SUBSCRIBE [HERE](https://medium.com/@omar.ok1998/subscribe)**.
 
