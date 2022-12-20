@@ -10,7 +10,7 @@ We will use the **ImageIO** Python package to **read DICOM files**, **extract me
 
 
 <p align="center">
-  <img src=".github/OmarAlkousa/DICOM-Using-Python/Dealing with DICOM using Python PartI/Demo/multiple axial, coronal, and sagittal slices using interactive widgets.gif", width="400">
+  <img src="https://github.com/OmarAlkousa/DICOM-Using-Python/blob/main/Dealing%20with%20DICOM%20using%20Python%20PartI/Demo/animation.gif", width="400">
 </p>
 
 
