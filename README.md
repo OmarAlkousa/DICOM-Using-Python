@@ -14,7 +14,7 @@ We will use the **ImageIO** Python package to **read DICOM files**, **extract me
 </p>
 
 
-More about DICOM with Python soon... To be notified whenever a new post is published, **SUBSCRIBE [HERE](https://medium.com/@omar.ok1998/subscribe)**.
+More about DICOM with Python soon... To be notified whenever a new post is published, **SUBSCRIBE  on [MEDIUM](https://medium.com/@omar.ok1998/subscribe)**.
 
 Keep in touch: [LinkedIn](https://www.linkedin.com/in/omar-alkousa).
 
