@@ -4,7 +4,7 @@ If you are a **Biomedical Engineer**, an **IT Specialist in the healthcare field
 
 For more information about **DICOM**, refer to this **[post](https://medium.com/@omar.ok1998/what-is-dicom-a28c5fe24c9d)**.
 
-## Dealing with DICOM using Python PartI: [[Code]](https://github.com/OmarAlkousa/DICOM-Using-Python/blob/main/Dealing%20with%20DICOM%20using%20Python%20PartI/Dealing_with_DICOM_using_Python_%20PartI.ipynb)
+## Dealing with DICOM Using ImageIO Python Package: [[Code]](https://github.com/OmarAlkousa/DICOM-Using-Python/blob/main/Dealing%20with%20DICOM%20using%20Python%20PartI/Dealing_with_DICOM_using_Python_%20PartI.ipynb)
 We will use the **ImageIO** Python package to **read DICOM files**, **extract metadata** and attributes, and plot image slices using **interactive** slider widgets using **Ipywidgets**. While doing so, we have to understand some important DICOM attributes such as **Pixel Spacing**, **Shape**, **Slice Thickness**, and **Aspect Ratio**.
 
 
