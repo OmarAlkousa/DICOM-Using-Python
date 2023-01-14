@@ -4,6 +4,8 @@ If you are a **Biomedical Engineer**, an **IT Specialist in the healthcare field
 
 For more information about **DICOM**, refer to this **[post](https://medium.com/@omar.ok1998/what-is-dicom-a28c5fe24c9d)**.
 
+There are a lot of DICOM samples on the internet. And you can use your own DICOM files. I chose a [dataset](https://www.kaggle.com/datasets/dmisky/dlwptvolumetricdicomlung) of 99 slices of chest-CT scans for one patient. You can find it on Kaggle. I saved the dataset on my [Drive](https://drive.google.com/drive/folders/1dbJpXVUBn0mSUxgJIqKZj4d_0thSeTW3?usp=sharing) so I can easily have access through GoogleColab.
+
 ## Dealing with DICOM Using ImageIO Python Package: [[TDS]](https://towardsdatascience.com/dealing-with-dicom-using-imageio-python-package-117f1212ab82)  [[Code]](https://github.com/OmarAlkousa/DICOM-Using-Python/blob/main/Dealing_with_DICOM_using_%20ImageIO/Dealing_with_DICOM_using_%20ImageIO.ipynb)
 Using the **ImageIO** Python package to **read DICOM files**, **extract metadata** and attributes, and plot image slices using **interactive** slider widgets using **Ipywidgets**. While doing so, we have to understand some important DICOM attributes such as **Pixel Spacing**, **Shape**, **Slice Thickness**, and **Aspect Ratio**.
 
@@ -20,8 +22,14 @@ If you are a Pythonista and you're working with Medical Data, especially DICOM d
   <img src="https://github.com/OmarAlkousa/DICOM-Using-Python/blob/main/DICOM_Using_PyDicom/Reading_DICOM_File_Using_dcm_read.png", width="600">
 </p>
 
+## From DICOM to CSV File: [[Code]](https://github.com/OmarAlkousa/DICOM-Using-Python/blob/8d945b91ac2facee0f28940665dd547d7c62a07a/From_DICOM_to_CSV_File/From_DICOM_Header_to_CSV%20File.ipynb)
+DICOM files consider data beyond pixel data and store it as a DICOM header. Such data are the Patient's age and weight, Modality, Image Dimension, and so on. In this post, we will use the PyDicom package to build a Python function that can extract specific metadata to use in further data analysis work.
 
-More about DICOM with Python soon... To be notified whenever a new post is published, **SUBSCRIBE  on [MEDIUM](https://medium.com/@omar.ok1998/subscribe)**.
+<p align="center">
+  <img src="https://github.com/OmarAlkousa/DICOM-Using-Python/blob/8d945b91ac2facee0f28940665dd547d7c62a07a/From_DICOM_to_CSV_File/DICOM%20TO%20CSV.png", width="600">
+</p>
+
+**SUBSCRIBE  on [MEDIUM](https://medium.com/@omar.ok1998/subscribe)**.
 
 Keep in touch: [LinkedIn](https://www.linkedin.com/in/omar-alkousa).
 
