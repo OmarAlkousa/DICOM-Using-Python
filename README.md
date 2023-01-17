@@ -22,7 +22,7 @@ If you are a Pythonista and you're working with Medical Data, especially DICOM d
   <img src="https://github.com/OmarAlkousa/DICOM-Using-Python/blob/main/DICOM_Using_PyDicom/Reading_DICOM_File_Using_dcm_read.png", width="600">
 </p>
 
-## From DICOM to CSV File: [[Code]](https://github.com/OmarAlkousa/DICOM-Using-Python/blob/8d945b91ac2facee0f28940665dd547d7c62a07a/From_DICOM_to_CSV_File/From_DICOM_Header_to_CSV%20File.ipynb)
+## From DICOM to CSV File: [[TDS]](https://medium.com/towards-data-science/from-dicom-header-to-csv-file-e2e442505651) [[Code]](https://github.com/OmarAlkousa/DICOM-Using-Python/blob/8d945b91ac2facee0f28940665dd547d7c62a07a/From_DICOM_to_CSV_File/From_DICOM_Header_to_CSV%20File.ipynb)
 DICOM files consider data beyond pixel data and store it as a DICOM header. Such data are the Patient's age and weight, Modality, Image Dimension, and so on. In this post, we will use the PyDicom package to build a Python function that can extract specific metadata to use in further data analysis work.
 
 <p align="center">
